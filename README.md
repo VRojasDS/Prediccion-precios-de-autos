@@ -46,9 +46,7 @@ El dataset contiene información histórica de automóviles usados. Las variable
 
 4. **Evaluación del Modelo**
 
-   * MAE (Mean Absolute Error)
-   * MSE / RMSE (Mean Squared Error / Root Mean Squared Error)
-   * R² Score
+   * R2= 96%
 
 ## Tecnologías Utilizadas
 
